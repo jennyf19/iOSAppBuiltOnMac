@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{766055C6-677A-4A74-AA34-41310A2274DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOSAppBuiltOnMac/MainPage.xaml.cs">
+    <Files>
+      <File FileName="iOSAppBuiltOnMac/MainPage.xaml.cs" Line="51" Column="1" />
+      <File FileName="iOSAppBuiltOnMac/MainPage.xaml" Line="24" Column="15" />
+      <File FileName="iOSAppBuiltOnMac/App.xaml.cs" Line="11" Column="78" />
+      <File FileName="iOSAppBuiltOnMac.iOS/Info.plist" />
+      <File FileName="iOSAppBuiltOnMac.iOS/Entitlements.plist" />
+      <File FileName="iOSAppBuiltOnMac.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="iOSAppBuiltOnMac.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="iOSAppBuiltOnMac" expanded="True" selected="True">
+            <Node name="iOSAppBuiltOnMac" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="iOSAppBuiltOnMac.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac/MainPage.xaml.cs" relfile="iOSAppBuiltOnMac/MainPage.xaml.cs" line="51" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.iOSAppBuiltOnMac.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.1f5b5c10db658a0a4648c9d7739ab193538df6a6" />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac/bin/Debug/netstandard2.0/iOSAppBuiltOnMac.deps.json
+/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac/bin/Debug/netstandard2.0/iOSAppBuiltOnMac.dll
+/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac/bin/Debug/netstandard2.0/iOSAppBuiltOnMac.pdb
+/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac/obj/Debug/netstandard2.0/iOSAppBuiltOnMac.AssemblyInfoInputs.cache
+/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac/obj/Debug/netstandard2.0/iOSAppBuiltOnMac.AssemblyInfo.cs
+/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac/obj/Debug/netstandard2.0/iOSAppBuiltOnMac.dll
+/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac/obj/Debug/netstandard2.0/iOSAppBuiltOnMac.pdb

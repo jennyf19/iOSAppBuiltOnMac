@@ -1,0 +1,55 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/jennyf19/Projects/iOSAppBuiltOnMac/iOSAppBuiltOnMac.iOS/obj/iPhone/Debug/device-builds/iphone10.3-13.1/mtouch-cache/1-Link/System.dll
+Function=mono_pmip
